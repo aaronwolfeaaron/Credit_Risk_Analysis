@@ -41,4 +41,4 @@ The purpose of this analysis was to identify the risk involved in credit loans u
 - Recall score: 94%
 
 ## Summary:
-None of the models used for this credit risk analysis were as robust as hoped, though the Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier were much more precise than the other four. Both of the aforementioned had recall scores over 90%, as well as precision scores over 90%, meaning that they were strong in predicting high-risk loans. For this reason, I would recommend either of the ensemble methods for detecting high-rusk lending. 
+None of the models used for this credit risk analysis were as robust as hoped, though the Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier were much more precise than the other four. Both of the aforementioned had recall scores over 90%, as well as precision scores over 90%, meaning that they were strong in predicting high-risk loans, at lease comparitively. For this reason, I would recommend either of the ensemble methods for detecting high-rusk lending. 
